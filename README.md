@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Waleed Ghori</h1>
 <h3 align="center">A passionate Software Engineer from Paksitan</h3>
-<img align="center" alt="mern developer" width="800" src="https://miro.medium.com/v2/resize:fit:1400/0*FGD6BUzzZs1VJLuY.gif">
+<img align="center" alt="mern developer" width="600" src="https://miro.medium.com/v2/resize:fit:1400/0*FGD6BUzzZs1VJLuY.gif">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=waleedghori&label=Profile%20views&color=0e75b6&style=flat" alt="waleedghori" /> </p>
 
 - 🌱 I’m currently learning **AI, WEB 3**
