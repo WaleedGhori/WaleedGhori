@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/WaleedGhori](https://github.com/WaleedGhori)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React** and **node Js**
 
 - 📫 How to reach me **waleedghori4@gmail.com**
 
