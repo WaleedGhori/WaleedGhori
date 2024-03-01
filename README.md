@@ -3,7 +3,7 @@
 <img align="right" alt="mern developer" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*FGD6BUzzZs1VJLuY.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waleedghori&label=Profile%20views&color=0e75b6&style=flat" alt="waleedghori" /> </p>
 
-- 🌱 I’m currently learning **AI, WEB 3**
+- 🌱 I’m currently learning **AWS, Kafka, Redis, Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/WaleedGhori](https://github.com/WaleedGhori)
 
